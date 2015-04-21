@@ -1,0 +1,4 @@
+[
+  { "caption": "-" },
+  { "caption": "Copy Filename", "command" :"tab_copy_filename", "args": { "group": -1,"index": -1 } }
+]
