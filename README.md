@@ -1,11 +1,14 @@
 TabCopyFilename
 ===============
-A Sublime Text 3 plugin that adds a "Copy Filename" item to tab context menus.
+A Sublime Text plugin that adds a "Copy Filename" item to tab context menus.
 
 
 Installation
 ------------
-Use [Package Control](https://packagecontrol.io)'s **Add Repository** feature.
+Use [Package Control](https://packagecontrol.io):
+
+  * Add Repository `https://github.com/gavinhungry/TabCopyFilename`
+  * Install Package `TabCopyFilename`
 
 
 License
