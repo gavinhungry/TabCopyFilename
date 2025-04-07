@@ -1,4 +1,4 @@
 [
-  { "caption": "-" },
-  { "caption": "Copy Filename", "command" :"tab_copy_filename", "args": { "group": -1,"index": -1 } }
+  { "caption": "Copy Filename", "command": "tab_copy_filename", "args": { "group": -1, "index": -1 } },
+  { "caption": "Copy Basename", "command": "tab_copy_basename", "args": { "group": -1, "index": -1 } }
 ]
